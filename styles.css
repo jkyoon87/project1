@@ -1,0 +1,54 @@
+.jumbotron-fluid1 {
+background-attachment: fixed;
+background-image: url(nufchead.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+color: whitesmoke;
+text-shadow: 4px 4px 4px black;
+font-family: 'Bangers', cursive;
+}
+
+.jumbotron-fluid2 {
+    background-attachment: fixed;
+    background-image: url(20200406-premier-league-trophy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    color: whitesmoke;
+    text-shadow: 4px 4px 4px black;
+    font-family: 'Bangers', cursive;
+    }
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1, h2, h4 {
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Bangers', cursive;
+}
+
+li {
+    text-indent : 5em;
+}
+
+.footer {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.navbar-brand {
+    font-family: 'Bangers', cursive;
+    font-size: 30px;
+}
+
+.NUFCofficial {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
